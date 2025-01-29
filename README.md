@@ -2,7 +2,7 @@
 
 Hi, I'm Atharva Deosthale.
 
-I code and create content about it. Most of my work is content related. Find my work on [my website](https://atharva.codes).
+I code and create content about it. Most of my work is content related. Find my work on [my website](https://atharva.codes) (WIP for now).
 
 ## Projects
 
